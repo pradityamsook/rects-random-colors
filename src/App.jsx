@@ -37,7 +37,12 @@ function App() {
             ctx.stroke();
         }
     });
-    return <div className="continaer">{loopComponent()}</div>;
+    return (
+        <div>
+            <h1>Name: Pradist</h1>
+            <div className="container">{loopComponent()}</div>
+        </div>
+    );
 }
 
 export default App;
