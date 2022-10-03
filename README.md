@@ -1,1 +1,1 @@
-"# rects-random-colors" 
+### rects-random-colors
