@@ -40,6 +40,7 @@ function App() {
     return (
         <div>
             <h1>Name: Pradist</h1>
+            <div className="border-h1" />
             <div className="container">{loopComponent()}</div>
         </div>
     );
